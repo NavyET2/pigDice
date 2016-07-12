@@ -10,10 +10,18 @@ function Player(name, score, turn) {
   this.turn = turn;
 }
 
-// var rollValue =
+var turnValue = 0;
 
 var player1 = new Player("Player One", 0, true)
 var player2 = new Player("Player Two", 0, false)
+
+if (turnValue === 1) {
+  
+} else (rollValue += turnValue) {
+  alert(trueValue)
+}
+
+
 
 
 
